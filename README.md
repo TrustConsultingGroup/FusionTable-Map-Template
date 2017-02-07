@@ -106,7 +106,7 @@ Take a look at the [wiki](https://github.com/derekeder/FusionTable-Map-Template/
 
 If you want to embed the template in a page on your website, the easiest way to do it is with an iframe. We provide an iframe-optimized template for this purpose:
 
-[![Searchable Map Template iframe screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-iframe.png)](http://derekeder.github.io/FusionTable-Map-Template/iframe_test.html)
+[![Searchable Map Template iframe screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-iframe.png)](http://TrustConsultingGroup.github.io/FusionTable-Map-Template/iframe_test.html)
 
 [See the working demo &raquo;](http://JoshHerrera.github.io/FusionTable-Map-Template/iframe_test.html)
 
